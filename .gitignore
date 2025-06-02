@@ -1,0 +1,20 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+.idea/
+
+# Database
+db.sqlite3
+/media
+/static
+
+# Django specific
+*.log
+local_settings.py
+
+# Operating System files
+.DS_Store
+Thumbs.db
